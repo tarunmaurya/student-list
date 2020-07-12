@@ -1,0 +1,8 @@
+[
+  { "name": "Adam", "email": "adam@gmail.com", "percentage": 80 },
+  { "name": "Sam", "email": "sam@gmail.com", "percentage": 70 },
+  { "name": "Peter", "email": "peter@gmail.com", "percentage": 60 },
+  { "name": "John", "email": "john@gmail.com", "percentage": 80 },
+  { "name": "Steve", "email": "steve@gmail.com", "percentage": 70 },
+  { "name": "Max", "email": "max@gmail.com", "percentage": 60 }
+]
